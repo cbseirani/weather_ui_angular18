@@ -1,2 +1,2 @@
-# weather_ui_angular18
-Sample Angular 18 UI for user's weather searches
+# weather_ui_angular19
+Sample Angular 19 UI for user's weather searches
